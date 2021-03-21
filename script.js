@@ -1,8 +1,8 @@
 (function (window) {
+ // ******************************* 
+// START HERE IF YOU WANT AN EASIER STARTING POINT FOR THIS ASSIGNMENT
 // *******************************
-// START HERE IF YOU WANT A MORE CHALLENGING STARTING POINT FOR THIS ASSIGNMENT
-// *******************************
-//
+
 // Module 4 Assignment Instructions.
 //
 // The idea of this assignment is to take an existing array of names
@@ -64,5 +64,5 @@ for (var i in names) {
 }
 })(window);
 
-  
-
+ 
+/
